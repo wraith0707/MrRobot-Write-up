@@ -1,4 +1,4 @@
-<img width="1540" height="851" alt="9" src="https://github.com/user-attachments/assets/70bf037c-9ec1-4143-a928-3dd2d73e6029" /># Mr. Robot CTF - Write-up
+# Mr. Robot CTF - Write-up
 
 * **Platform:** TryHackMe / HackTheBox
 * **Zorluk Seviyesi:** Medium
