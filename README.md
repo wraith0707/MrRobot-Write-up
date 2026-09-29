@@ -52,9 +52,8 @@ Hedef IP adresine yönelik yapılan Nmap taraması ile açık portlar ve servisl
 
 * Panel içerisinden tema dosyaları kısmına (`Appearance > Editor`) geçilmiş, kullanılacak olan `php-reverse-shell.php` kodu ilgili tema dosyasına (örneğin 404 şablonuna) yapıştırılarak güncellenmiştir.
 
-<img width="1917" height="962" alt="10" src="https://github.com/user-attachments/assets/92e5e5cd-b557-4d75-bfce-da82aae1540c" />
-<img width="114" height="137" alt="11" src="https://github.com/user-attachments/assets/4af8ea69-b6f8-46a0-a052-0a5fa41a8a41" />
 <img width="1789" height="871" alt="12" src="https://github.com/user-attachments/assets/8cb17be9-39eb-45f3-a3ab-9df8d703b8e5" />
+<img width="1917" height="962" alt="10" src="https://github.com/user-attachments/assets/92e5e5cd-b557-4d75-bfce-da82aae1540c" />
 
 * Saldırgan makinesinde Netcat ile dinleme (listener) başlatılmıştır:
   * **Komut:** `nc -lvnp 1234`
